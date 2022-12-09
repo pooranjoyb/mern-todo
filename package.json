@@ -1,0 +1,22 @@
+{
+  "name": "mern-todo",
+  "version": "1.0.0",
+  "description": "Todo-app using MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooranjoyb/mern-todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Pooranjoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pooranjoyb/mern-todo/issues"
+  },
+  "homepage": "https://github.com/pooranjoyb/mern-todo#readme"
+}
